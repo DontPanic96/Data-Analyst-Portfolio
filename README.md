@@ -50,3 +50,9 @@ MBA: The Open University, Business of managment
 1. Email: ev_pozdnyakova@mail.ru
    
 3. Linekdin https://www.linkedin.com/in/elena-pozdnyakova-pev/
+
+Языки:
+
+Русский, родной
+
+Английский, B1
