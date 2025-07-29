@@ -45,3 +45,8 @@ MBA: The Open University, Business of managment
 
 Основы алгоритмов и структур данных, Основы баз данных, Основы анализа данных, Гибкое управление проектами: Agile и Kanban, Интерактивный тренажер по SQL,
 Основы статистики (Stepik)
+
+*Контакты:*
+1. Email: ev_pozdnyakova@mail.ru
+   
+3. Linekdin https://www.linkedin.com/in/elena-pozdnyakova-pev/
