@@ -15,6 +15,7 @@
 ✅ Инструменты – Excel, Google Sheets, SQL, Python (Pandas, Stats, Matplotlib, Seaborn), BI (Tableau, Power BI)
 
 *Отрасли*
+
 ✅ FMCG / HoReCa – управление продуктами в food-tech
 
 ✅ Логистика и дистрибуция – оптимизация операционных процессов
