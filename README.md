@@ -2,6 +2,7 @@
 
 
 [English CV Portfolio](https://github.com/DontPanic96/Data-Analyst-Portfolio-Eng)
+
 [CV pdf](https://github.com/DontPanic96/Data-Analyst-Portfolio/blob/main/Elena%20Pozdnyakova.pdf)
 
 # Обо мне
